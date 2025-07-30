@@ -4,7 +4,7 @@ This project demonstrates a stateful AI agent using [LangGraph](https://github.c
 
 The agent uses an LLM to reason and call [Tavily Search](https://www.tavily.com/) via `TavilySearchResults`, a tool that performs real-time web search and returns rich results in a ReAct-style loop.
 
-Operates in a loop of: **Thought → Action → Observation → Answer
+Operates in a loop of:Thought → Action → Observation → Answer
 ---
 
 ## 📌 Features
