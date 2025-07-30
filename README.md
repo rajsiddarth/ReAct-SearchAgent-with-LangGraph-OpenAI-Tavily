@@ -2,11 +2,9 @@
 
 ## 🚀 Launch in Binder
 
-Try the notebook directly in your browser with zero setup:
+Try the notebook directly in your browser with zero setup
 
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rajsiddarth/ReAct-Agent-with-LangGraph-OpenAI-Tavily)
-
-> ⚠️ Note: Binder does **not support secrets** like `.env` securely. Use demo keys only or disable tools that require authentication.
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rajsiddarth/ReAct-Agent-with-LangGraph-OpenAI-Tavily/HEAD)
 
 
 # ReAct-Agent-with-LangGraph-OpenAI-Tavily
